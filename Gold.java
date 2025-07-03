@@ -4,10 +4,7 @@
  */
 package project5;
 
-/**
- *
- * @author vrajoo
- */
+
 public class Gold extends CustomerState {
      public Gold(Customer customer) {
         super(customer);
