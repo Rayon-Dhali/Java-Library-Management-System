@@ -4,10 +4,7 @@
  */
 package project5;
 
-/**
- *
- * @author njeyagan
- */
+
 public abstract class CustomerState {
     
     protected Customer customer;
