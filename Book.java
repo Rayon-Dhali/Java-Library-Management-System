@@ -2,10 +2,7 @@ package project5;
 
 import javafx.scene.control.CheckBox;
 
-/**
- *
- * @author njeyagan
- */
+
 public class Book {
     private final String title;
     private final double price;
